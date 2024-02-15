@@ -1,0 +1,4 @@
+instaloader==4.10
+aiogram==2.25.1
+shutil
+os
